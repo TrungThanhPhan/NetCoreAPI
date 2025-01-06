@@ -1,0 +1,14 @@
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\bin\Debug\net9.0\NewApp.exe
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\bin\Debug\net9.0\NewApp.deps.json
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\bin\Debug\net9.0\NewApp.runtimeconfig.json
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\bin\Debug\net9.0\NewApp.dll
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\bin\Debug\net9.0\NewApp.pdb
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\obj\Debug\net9.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfoInputs.cache
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfo.cs
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\obj\Debug\net9.0\NewApp.csproj.CoreCompileInputs.cache
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\obj\Debug\net9.0\NewApp.dll
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\obj\Debug\net9.0\refint\NewApp.dll
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\obj\Debug\net9.0\NewApp.pdb
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\obj\Debug\net9.0\NewApp.genruntimeconfig.cache
+D:\stud\phát triển phần mềm quản lý\Net_core\NewApp\obj\Debug\net9.0\ref\NewApp.dll
