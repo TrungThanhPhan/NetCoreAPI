@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\stud\\phát triển phần mềm quản lý\\Net_core\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectUniqueName": "D:\\stud\\phát triển phần mềm quản lý\\Net_Core_API\\Net_core\\FirstWebMVC\\FirstWebMVC.csproj",
       "projectName": "FirstWebMVC",
-      "projectPath": "D:\\stud\\phát triển phần mềm quản lý\\Net_core\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectPath": "D:\\stud\\phát triển phần mềm quản lý\\Net_Core_API\\Net_core\\FirstWebMVC\\FirstWebMVC.csproj",
       "packagesPath": "C:\\Users\\Trung Thanh Phan\\.nuget\\packages\\",
-      "outputPath": "D:\\stud\\phát triển phần mềm quản lý\\Net_core\\FirstWebMVC\\obj\\",
+      "outputPath": "D:\\stud\\phát triển phần mềm quản lý\\Net_Core_API\\Net_core\\FirstWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Trung Thanh Phan\\AppData\\Roaming\\NuGet\\NuGet.Config"
