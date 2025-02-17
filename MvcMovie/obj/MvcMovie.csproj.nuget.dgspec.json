@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\stud\\phát triển phần mềm quản lý\\MvcMovie\\MvcMovie.csproj": {}
+    "D:\\stud\\phát triển phần mềm quản lý\\Net_Core_API\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "D:\\stud\\phát triển phần mềm quản lý\\MvcMovie\\MvcMovie.csproj": {
+    "D:\\stud\\phát triển phần mềm quản lý\\Net_Core_API\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\stud\\phát triển phần mềm quản lý\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "D:\\stud\\phát triển phần mềm quản lý\\Net_Core_API\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "D:\\stud\\phát triển phần mềm quản lý\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "D:\\stud\\phát triển phần mềm quản lý\\Net_Core_API\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Trung Thanh Phan\\.nuget\\packages\\",
-        "outputPath": "D:\\stud\\phát triển phần mềm quản lý\\MvcMovie\\obj\\",
+        "outputPath": "D:\\stud\\phát triển phần mềm quản lý\\Net_Core_API\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Trung Thanh Phan\\AppData\\Roaming\\NuGet\\NuGet.Config"
