@@ -12,14 +12,22 @@ namespace MvcMovie.Controllers
         [HttpPost]
         public IActionResult Index(BMI cs)
         {
-            double BMI = cs.cannang / (cs.chieucao * cs.chieucao);
+            float Metters = cs.chieucao / 100;
+            float BMI = cs.cannang / (Metters * Metters);
             ViewBag.BMI = BMI;
-            if (BMI < 18.5)
+            if (BMI < 18.5){
             ViewBag.Message ="Bạn đang thiếu cân";
-            else if (BMI >=18.5 && BMI <=24.9)
+            }
+            else if (BMI >=18.5 && BMI <=24.9){
             ViewBag.Message ="Bạn đang có cân nặng bình thường";
-            else if (BMI >24.9)
+            }
+            else if (BMI >=25&& BMI <30){
             ViewBag.Message ="Bạn đang thừa cân";
+            }
+            else{
+                ViewBag.Message ="Bạn đang mắc bệnh béo phì";
+            }
+
             return View();
         }
     }

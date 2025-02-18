@@ -24,6 +24,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk1JXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/diemmh/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGllbW1oXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/employe/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/helloworld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaGVsbG93b3JsZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/hoadon/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG9hZG9uXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Home/Index.cshtml]
