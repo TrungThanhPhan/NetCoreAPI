@@ -8,5 +8,6 @@ public class Daily : HeThongPhanPhoi
     public string? Diachi { get; set;}
     public string? Nguoidaidien { get; set;}
     public string? Dienthoai { get; set;}
+    [Key]
     public string? MaHTTP { get; set;}
 }

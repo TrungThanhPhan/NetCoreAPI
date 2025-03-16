@@ -32,8 +32,48 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk1JXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Daily/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Daily/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Daily/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Daily/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Daily/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/diemmh/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGllbW1oXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/employe/Index.cshtml]
@@ -64,8 +104,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXGNyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
-=======
 [D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/person/delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXGRlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -74,7 +112,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
->>>>>>> 70afaa3 (baitap2402)
 [D:/stud/phát triển phần mềm quản lý/Net_Core_API/MvcMovie/Views/person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

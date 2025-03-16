@@ -23,7 +23,7 @@ namespace MvcMovie.Controllers
       }
       [HttpPost]
       [ValidateAntiForgeryToken]
-      public async Task<IActionResult> Create([Bind("PersonId,Fullname,Address")] Person person)
+      public async Task<IActionResult> Create([Bind("PersonId,Fullname,Address,Email")] Person person)
       {
         if (ModelState.IsValid)
         {

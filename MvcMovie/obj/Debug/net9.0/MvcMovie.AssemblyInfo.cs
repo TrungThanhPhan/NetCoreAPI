@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcMovie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e52680814157c6243f3136c8c0ca829804374f7")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc680110f03668e4c78ad47815671a4e4fbe686c")]
->>>>>>> 70afaa3 (baitap2402)
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98a55d0e7096cb4e65f8b86e643feb80c55dda85")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcMovie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcMovie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
